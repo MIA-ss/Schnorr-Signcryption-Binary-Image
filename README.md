@@ -1,4 +1,4 @@
-# Implementation of Schnorr Signcryption for Binary Image Data
+# Implementation of Schnorr Signcryption using Black & White Image Data
 
 **Author:** Mohamad Izzul Adib Bin Shamsudin  
 **Institution:** Universiti Teknologi MARA (UiTM) — Bachelor of Science (Hons.) Mathematics — Feb 2025
